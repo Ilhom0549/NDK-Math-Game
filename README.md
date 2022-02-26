@@ -1,7 +1,7 @@
 # NDK-Math-Game
 NDK Math Game Demo Version
 
-[![Download Demo Version](https://github.com/Ilhom0549/NDK-Math-Game/resource/images/app-debug.apk)
+[Download Demo Version](https://github.com/Ilhom0549/NDK-Math-Game/resource/images/app-debug.apk)
 
 ## Screenshots
 
